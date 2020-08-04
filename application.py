@@ -12,7 +12,7 @@ instructions = '''
     <hr/>
     <h1 style="background-color: blue; color: white">Welcome to San Francisco!</h1>
     <br/>
-    <h1 style="background-color: purple; color: white">Watch the city from Twin Peaks</h1>
+    <h1/> style="background-color: purple; color: white">Watch the city from Twin Peaks</h1>
     <hr/>
     <h1 style="background-color: green; color: white">You can see the Coit Tower!</h1>
     <hr/>
