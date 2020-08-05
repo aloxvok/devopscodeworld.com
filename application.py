@@ -31,6 +31,8 @@ instructions = '''
     <hr/>
     <h1 style="background-color: aqua; color: red">You can see the tiny houses!</h1>
     <hr/>
+    <h1 style="background-color: aqua; color: red">You can see the tiny houses!</h1>
+    <hr/>
     <h1> Watch the city from Twin Peaks</h1>
     <hr/>
     <em>Hint</em>: This is a RESTful web service! Append a username
