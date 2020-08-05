@@ -13,7 +13,7 @@ instructions = '''
     <h1 style="background-color: blue; color: white">Welcome to San Francisco!</h1>
 <<<<<<< HEAD
     <hr/>
-    <h1 style="background-color: purple; color: white">Watch the city from Twin Peaks</h1>
+    <h1 style="background-color: red; color: white">Watch the city from Twin Peaks</h1>
     <hr/>
     <h1 style="background-color: purple; color: white">Watch the city from Twin Peaks</h1>
 =======
