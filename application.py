@@ -33,7 +33,7 @@ instructions = '''
     <h1> Watch the city from Twin Peaks</h1>
     <hr/>
    '''
-home_link = '<p><a href="/">Back</a></p>\n'
+home_link = '<p><a href="/">Back</a>hhhh</p>\n'
 footer_text = '</body>\n</html>'
 
 # EB looks for an 'application' callable by default.
