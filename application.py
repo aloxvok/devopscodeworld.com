@@ -6,7 +6,7 @@ def say_hello(username = "World"):
 
 # some bits of text for the page.
 header_text = '''
-    <html>\n<head> <title>Devopscodeworld</title> </head>\n<body>'''
+    <html>\n<head> <title>Home Page</title> </head>\n<body>'''
 instructions = '''
     <p>
     <hr/>
@@ -32,9 +32,7 @@ instructions = '''
     <hr/>
     <h1> Watch the city from Twin Peaks</h1>
     <hr/>
-    <em>Hint</em>: This is a RESTful web service! Append a username
-    to the URL (for example: <code>/Thelonious</code>) to say hello to
-    someone specific.</p>\n'''
+   '''
 home_link = '<p><a href="/">Back</a></p>\n'
 footer_text = '</body>\n</html>'
 
