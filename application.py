@@ -14,21 +14,21 @@ instructions = '''
     <hr/>
     <h1 style="background-color: red; color: white">Watch the city from Twin Peaks</h1>
     <hr/>
-    <h1 style="background-color: purple; color: white">Watch the city from Twin Peaks</h1>
+    <h1 style="background-color: red; color: white">Watch the city from Twin Peaks</h1>
     <br/>
-    <h1 style="background-color: purple; color: white">Watch the city from Twin Peaks</h1>
+    <h1 style="background-color: blue; color: white">Watch the city from Twin Peaks</h1>
     <hr/>
     <h1 style="background-color: green; color: white">You can see the Coit Tower!</h1>
     <hr/>
     <h1 style="background-color: red; color: white">You can see the Golden Gate!</h1>
     <hr/>
-    <h1 style="background-color: yellow; color: black">You can see the Bay Bridge!</h1>
+    <h1 style="background-color: red; color: red">You can see the Bay Bridge!</h1>
     <hr/>
-    <h1 style="background-color: yellow; color: black">You can see the Bay Bridge!</h1>
+    <h1 style="background-color: blue; color: black">You can see the Bay Bridge!</h1>
     <hr/>
     <h1 style="background-color: aqua; color: red">You can see the tiny houses!</h1>
     <br/>
-    <h1 style="background-color: aqua; color: red">You can see the tiny houses!</h1>
+    <h1 style="background-color: red; color: red">You can see the tiny houses!</h1>
     <hr/>
     <h1> Watch the city from Twin Peaks</h1>
     <hr/>
