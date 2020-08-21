@@ -30,7 +30,7 @@ instructions = '''
     <hr/>
     <h1 style="background-color: red; color: white">You can see the tiny houses!</h1>
     <hr/>
-    <h1 Watch the city from Twin Peaks</h1>
+    <h1>Watch the city from Twin Peaks!</h1>
     <hr/>
    '''
 home_link = '<p><a href="/">Back</a></p>\n'
