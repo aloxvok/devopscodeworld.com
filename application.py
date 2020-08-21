@@ -10,25 +10,25 @@ header_text = '''
 instructions = '''
     <p>
     <hr/>
-    <h1 style="background-color: yellow; color: white">Welcome to San Francisco!</h1>
+    <h1 style="background-color: red; color: white">Welcome to San Francisco!</h1>
     <hr/>
-    <h1 style="background-color: blue; color: white">Watch the city from Twin Peaks</h1>
+    <h1 style="background-color: red; color: white">Watch the city from Twin Peaks</h1>
     <hr/>
     <h1 style="background-color: red; color: white">Watch the city from Twin Peaks</h1>
     <br/>
-    <h1 style="background-color: blue; color: white">Watch the city from Twin Peaks</h1>
+    <h1 style="background-color: red; color: white">Watch the city from Twin Peaks</h1>
     <hr/>
-    <h1 style="background-color: gredn; color: white">You can see the Coit Tower!</h1>
+    <h1 style="background-color: red; color: white">You can see the Coit Tower!</h1>
     <hr/>
     <h1 style="background-color: red; color: white">You can see the Golden Gate!</h1>
     <hr/>
     <h1 style="background-color: red; color: red">You can see the Bay Bridge!</h1>
     <hr/>
-    <h1 style="background-color: blue; color: black">You can see the Bay Bridge!</h1>
+    <h1 style="background-color: red; color: black">You can see the Bay Bridge!</h1>
     <hr/>
-    <h1 style="background-color: aqua; color: red">You can see the tiny houses!</h1>
+    <h1 style="background-color: red; color: red">You can see the tiny houses!</h1>
     <br/>
-    <h1 style="background-color: yellow; color: red">You can see the tiny houses!</h1>
+    <h1 style="background-color: red; color: red">You can see the tiny houses!</h1>
     <hr/>
     <h1> Watch the city from Twin Peaks</h1>
     <hr/>
