@@ -12,23 +12,23 @@ instructions = '''
     <hr/>
     <h1 style="background-color: ; color: white">Welcome to San Francisco!</h1>
     <hr/>
-    <h1 style="background-color: yellow; color: white">Watch the city from Twin Peaks</h1>
+    <h1 style="background-color: ; color: black">Watch the city from Twin Peaks</h1>
     <hr/>
-    <h1 style="background-color: aqua; color: white">Watch the city from Twin Peaks</h1>
+    <h1 style="background-color: ; color: black">while you feel the cold breeze from the ocean</h1>
     <hr/>
-    <h1 style="background-color: red; color: white">Watch the city from Twin Peaks</h1>
+    <h1 style="background-color: ; color: black">also the bay splashing salty water</h1>
     <hr/>
-    <h1 style="background-color: red; color: white">You can see the Coit Tower!</h1>
+    <h1 style="background-color: ; color: black">You can see the Coit Tower!</h1>
     <hr/>
-    <h1 style="background-color: red; color: white">You can see the Golden Gate!</h1>
+    <h1 style="background-color: ; color: black">and can see the Golden Gate!</h1>
     <hr/>
-    <h1 style="background-color: red; color: white">You can see the Bay Bridge!</h1>
+    <h1 style="background-color: ; color: black">You can see almost every skyrise!</h1>
     <hr/>
-    <h1 style="background-color: red; color: black">You can see the Bay Bridge!</h1>
+    <h1 style="background-color: ; color: black">near the Bay Bridge!</h1>
     <hr/>
-    <h1 style="background-color: red; color: white">You can see the tiny houses!</h1>
+    <h1 style="background-color: ; color: black">You can see the tiny houses!</h1>
     <hr/>
-    <h1 style="background-color: red; color: white">You can see the tiny houses!</h1>
+    <h1 style="background-color: ; color: black">but most importantly you can see humanity!</h1>
     <hr/>
     <h1>Watch the city from Twin Peaks!</h1>
     <hr/>
