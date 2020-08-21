@@ -10,7 +10,7 @@ header_text = '''
 instructions = '''
     <p>
     <hr/>
-    <h1 style="background-color: blue; color: white">Welcome to San Francisco!</h1>
+    <h1 style="background-color: ; color: white">Welcome to San Francisco!</h1>
     <hr/>
     <h1 style="background-color: yellow; color: white">Watch the city from Twin Peaks</h1>
     <hr/>
