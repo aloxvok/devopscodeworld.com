@@ -14,13 +14,13 @@ instructions = '''
     <hr/>
     <h1 style="background-color: ; color: black">Watch the city from Twin Peaks</h1>
     <hr/>
-    <h1 style="background-color: ; color: black">while you feel the cold breeze from the ocean</h1>
+    <h1 style="background-color: ; color: black">while feeling the ocean breeze</h1>
     <hr/>
     <h1 style="background-color: ; color: black">also the bay splashing salty water</h1>
     <hr/>
     <h1 style="background-color: ; color: black">You can see the Coit Tower!</h1>
     <hr/>
-    <h1 style="background-color: ; color: black">and can see the Golden Gate!</h1>
+    <h1 style="background-color: ; color: black">and see the Golden Gate!</h1>
     <hr/>
     <h1 style="background-color: ; color: black">You can see almost every skyrise!</h1>
     <hr/>
@@ -29,8 +29,6 @@ instructions = '''
     <h1 style="background-color: ; color: black">You can see the tiny houses!</h1>
     <hr/>
     <h1 style="background-color: ; color: black">but most importantly you can see humanity!</h1>
-    <hr/>
-    <h1>Watch the city from Twin Peaks!</h1>
     <hr/>
    '''
 home_link = '<p><a href="/">Back</a></p>\n'
