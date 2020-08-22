@@ -9,7 +9,7 @@ header_text = '''
     <html>\n<head> <title>Home Page</title> </head>\n<body>'''
 instructions = '''
     <p>
-    <h1 style="background-color:red ; color: white">Welcome to San Francisco!</h1>
+    <h1 style="background-color:blue ; color: white">Welcome to San Francisco!</h1>
      <br/>
     <hr/><iframe width="560" height="315" src="https://www.youtube.com/embed/hanE_bysWro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/vOWdIacP3xs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -19,11 +19,11 @@ instructions = '''
     <iframe width="560" height="315" src="https://www.youtube.com/embed/bAjq4II85PU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/SbXin5uV00k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
      <hr/>
-    <h1 style="background-color: ; color: black">while feeling the ocean breeze</h1>
+    <h1 style="background-color:yellow ; color: black">while feeling the ocean breeze</h1>
     <hr/>
-    <h1 style="background-color: ; color: black">also the bay splashing salty water</h1>
+    <h1 style="background-color:green ; color: black">also the bay splashing salty water</h1>
     <hr/>
-    <h1 style="background-color: ; color: black">You can see the Coit Tower!</h1>
+    <h1 style="background-color:purple ; color: black">You can see the Coit Tower!</h1>
     <hr/>
     <h1 style="background-color: ; color: black">and see the Golden Gate!</h1>
     <hr/>
