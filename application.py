@@ -33,7 +33,7 @@ instructions = '''
     <hr/>
     <h1 style="background-color: ; color: black">dont forget see the tiny houses!</h1>
     <hr/>
-    <h1 style="background-color: ; color: black">but most importantly you can see humanity!</h1>
+    <h1 style="background-color:aqua ; color: black">but most importantly you can see humanity!</h1>
     <hr/>
    '''
 home_link = '<p><a href="/">Back</a></p>\n'
