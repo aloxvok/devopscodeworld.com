@@ -26,7 +26,7 @@ instructions = '''
     <hr/>
     <h1 style="background-color: ; color: black">near the Bay Bridge!</h1>
     <hr/>
-    <h1 style="background-color: ; color: black">You can see the tiny houses!</h1>
+    <h1 style="background-color: ; color: black">dont forget see the tiny houses!</h1>
     <hr/>
     <h1 style="background-color: ; color: black">but most importantly you can see humanity!</h1>
     <hr/>
