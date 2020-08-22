@@ -10,7 +10,7 @@ header_text = '''
 instructions = '''
     <p>
     <h1 style="background-color: aqua ; color: white">Welcome to San Francisco!</h1>
-     <hr/>
+     <br/>
     <hr/><iframe width="560" height="315" src="https://www.youtube.com/embed/hanE_bysWro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/vOWdIacP3xs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
      <hr/>
