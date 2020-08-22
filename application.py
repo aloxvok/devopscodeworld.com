@@ -14,7 +14,7 @@ instructions = '''
     <hr/>
     <h1 style="background-color: ; color: black">Watch the city from Twin Peaks</h1>
     <hr/>
-    <h1 style="background-color: ; color: black">while you feel the cold breeze from the ocean</h1>
+    <h1 style="background-color: ; color: black">while you feel the cold breeze from the ocean</h1> <h1 style="background-color:aqua ; color: black">while you feel the cold breeze from the ocean</h1>
     <hr/>
     <h1 style="background-color: ; color: black">also the bay splashing salty water</h1>
     <hr/>
